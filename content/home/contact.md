@@ -1,7 +1,7 @@
 ---
 widget: contact
 widget_id: contact
-weight: 130
+weight: 20
 title: Contact
 subtitle: null
 active: ture
